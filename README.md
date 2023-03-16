@@ -17,3 +17,7 @@
 
 ## Model Structure
 ![image](https://user-images.githubusercontent.com/105347300/225243508-a99d5478-bd1f-4f2d-9d1d-9b4fc1bf5a53.png)
+
+1. 차량이 존재하는 영역만을 찾아내 자르기 --> object detection
+2. 이미지 파손 존재여부 예측 --> image classification
+3. 이미지 내 파손 존재시 파손 영역 및 클래스 예측(스크래치, 찌그러짐, 패널 벌어짐) --> image segmentation
