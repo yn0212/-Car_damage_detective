@@ -1,7 +1,8 @@
 # Car_damage_detective
 
 ## Background of Project
-- 쏘카 어플 예시 사진
+- 카 셰어링 어플 예시 사진
+
 ![image](https://user-images.githubusercontent.com/105347300/225243082-34cd3389-3427-44a1-b4f0-f8d7525863d3.png)
 
 카셰어링 업체에서 차량은 중요한 자원이므로 차량의 파손 상태를 꾸준히 모니터링하는 것은 반드시 해야 할 일 중 하나이다.
